@@ -1,0 +1,22 @@
+Todo list
+
+// TODO
+•	Private setting future koha development. George
+
+// TODO
+•	OPAC list search function development. George
+// TODO
+•	Catalog record for policy and best practices/how to guide. George
+
+•	Share best practice/how to guide to 3 Next libraries and NEKLS staff to test. Valarie, Dan
+
+•	Approval of policy by Next support and NEKLS staff.
+•	Next User Group meeting share policy statement, best practice/how to guide. Valarie. Dan
+•	Authority to prune list: all Next support.
+•	Adoption of policy via Next User Group vote, with expiration countdown begin 1/1/2020. George
+
+•	Reminder of list policy, expiration of 6 months at February Next User Group meeting. Valarie, Dan
+
+•	Patron notification of policy via OPAC note for 30 days. Dan
+•	Alert home library patron has existing list. Dan
+•	OPAC header on list tab permanent list policy statement. Dan, George
