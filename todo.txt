@@ -23,3 +23,5 @@ TODO: Patron notification of policy via OPAC note for 30 days. Dan
 TODO: Alert home library patron has existing list. Dan
 
 TODO: OPAC header on list tab permanent list policy statement. Dan, George
+
+TODO: Report to determine last activity on a list (creation, update, etc).  George
