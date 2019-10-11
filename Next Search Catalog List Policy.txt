@@ -1,0 +1,30 @@
+Next Search Catalog List Policy
+
+Drafted by Dan and Valarie - 10/11/2019
+The goal of this policy is to prioritize discoverability and usability of lists by staff and patrons.
+Next library staff member and patrons may create a list by selecting material.  Next library staff and patrons should regularly maintain lists and delete outdated lists.
+Next Search Catalog and NEKLS staff may delete any list. List will be reviewed, made private or deleted based on the following criteria:
+
+•	List name does not accurately reflect contents
+•	List contents no longer relevant
+•	List not updated within the last 6 months
+
+Lists actively supporting the policy goal statement may be exempt from deletion. Lists that do not support the policy statement may be deleted outside of the criteria stated above.
+
+
+•	Private setting future koha development. George
+•	OPAC list search function development. George
+•	Catalog record for policy and best practices/how to guide. George
+
+•	Share best practice/how to guide to 3 Next libraries and NEKLS staff to test. Valarie, Dan
+
+•	Approval of policy by Next support and NEKLS staff.
+•	Next User Group meeting share policy statement, best practice/how to guide. Valarie. Dan
+•	Authority to prune list: all Next support.
+•	Adoption of policy via Next User Group vote, with expiration countdown begin 1/1/2020. George
+
+•	Reminder of list policy, expiration of 6 months at February Next User Group meeting. Valarie, Dan
+
+•	Patron notification of policy via OPAC note for 30 days. Dan
+•	Alert home library patron has existing list. Dan
+•	OPAC header on list tab permanent list policy statement. Dan, George
